@@ -1,3 +1,11 @@
+Full Responsive Restaurant website built with React JS
+
+- React Functional components and their reusability
+- React file and folder structure
+- Fundamental CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
